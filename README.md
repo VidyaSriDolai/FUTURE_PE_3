@@ -17,3 +17,4 @@ This is an investor-style pitch deck for HydraMate, a smart water bottle that tr
 - Product features
 - How it works
 - Market and business potential
+  for images go to the link:https://github.com/VidyaSriDolai/FUTURE_PE_3/issues/1#issue-3109954451
